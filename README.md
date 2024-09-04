@@ -60,14 +60,4 @@ The analysis utilizes the following tables from the `sports` database:
 
 To run this analysis, ensure you have access to the `sports` database with the required tables. You will need SQL tools or a database client to execute the provided queries and analyze the results.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- [Your Data Sources]
-- [Any libraries, tools, or people who helped]
-
-For further details, please refer to the [project documentation](docs).
 
